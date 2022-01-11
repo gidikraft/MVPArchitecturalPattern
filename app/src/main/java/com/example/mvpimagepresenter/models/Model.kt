@@ -19,6 +19,10 @@ class Model: Contract.Model {
             "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
         )
 
+//    private val getRandomImage = Random().nextInt(20)
+//    private var imageUrl = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/$getRandomImage.png"
+
+
     // this method will invoke when
     // user clicks on the button
     // and it will take a delay of
